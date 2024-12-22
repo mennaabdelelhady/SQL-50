@@ -32,7 +32,8 @@ As of today, I have solved the following problems:
 6. [Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/)  
 7. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)  
 8. [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
-9. [Rising Temperature](https://leetcode.com/problems/rising-temperature) *(Current)*
+9. [Rising Temperature](https://leetcode.com/problems/rising-temperature)
+10. [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) *(Current)*
 
 I will continue to add solutions daily.
 
