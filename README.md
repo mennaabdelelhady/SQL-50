@@ -33,7 +33,17 @@ As of today, I have solved the following problems:
 7. [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/)  
 8. [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/)
 9. [Rising Temperature](https://leetcode.com/problems/rising-temperature)
-10. [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine) *(Current)*
+10. [Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine)
+11.[577. Employee Bonus](https://leetcode.com/problems/employee-bonus)
+12.[1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations)
+13.[570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports)
+14.[1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate)
+15.[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies)
+16.[1251. Average Selling Price](https://leetcode.com/problems/average-selling-price)
+17.[1075. Project Employees I](https://leetcode.com/problems/project-employees-i)
+18.[1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest)
+19.[1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)
+20.[1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) *(Current)*
 
 I will continue to add solutions daily.
 
