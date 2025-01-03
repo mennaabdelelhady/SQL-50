@@ -43,7 +43,9 @@ As of today, I have solved the following problems:
 17. [1075. Project Employees I](https://leetcode.com/problems/project-employees-i)
 18. [1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest)
 19. [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)
-20. [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i) *(Current)*
+20. [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)
+21. [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)
+22. [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)*(Current)*
 
 I will continue to add solutions daily.
 
