@@ -45,7 +45,8 @@ As of today, I have solved the following problems:
 19. [1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage)
 20. [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i)
 21. [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)
-22. [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)*(Current)*
+22. [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)
+23. [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)*(Current)*
 
 I will continue to add solutions daily.
 
