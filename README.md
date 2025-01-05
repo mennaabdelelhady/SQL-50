@@ -47,7 +47,8 @@ As of today, I have solved the following problems:
 21. [1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii)
 22. [550. Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv)
 23. [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)
-24. [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)*(Current)*
+24. [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)
+25. [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii)*(Current)*
 
 I will continue to add solutions daily.
 
