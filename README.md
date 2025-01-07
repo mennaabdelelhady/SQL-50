@@ -49,7 +49,8 @@ As of today, I have solved the following problems:
 23. [2356. Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher)
 24. [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)
 25. [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii)
-26. [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)*(Current)*
+26. [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)
+27. [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count)*(Current)*
 
 I will continue to add solutions daily.
 
