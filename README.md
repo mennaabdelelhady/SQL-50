@@ -50,7 +50,9 @@ As of today, I have solved the following problems:
 24. [1141. User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i)
 25. [1070. Product Sales Analysis III](https://leetcode.com/problems/product-sales-analysis-iii)
 26. [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)
-27. [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count)*(Current)*
+27. [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count)
+28. [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number)
+29. [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)*(Current)*
 
 I will continue to add solutions daily.
 
