@@ -52,7 +52,9 @@ As of today, I have solved the following problems:
 26. [596. Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)
 27. [1729. Find Followers Count](https://leetcode.com/problems/find-followers-count)
 28. [619. Biggest Single Number](https://leetcode.com/problems/biggest-single-number)
-29. [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)*(Current)*
+29. [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)
+30. [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)
+31. [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee)*(Current)*
 
 I will continue to add solutions daily.
 
