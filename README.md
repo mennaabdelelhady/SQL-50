@@ -55,7 +55,8 @@ As of today, I have solved the following problems:
 29. [1045. Customers Who Bought All Products](https://leetcode.com/problems/customers-who-bought-all-products)
 30. [1731. The Number of Employees Which Report to Each Employee](https://leetcode.com/problems/the-number-of-employees-which-report-to-each-employee)
 31. [1789. Primary Department for Each Employee](https://leetcode.com/problems/primary-department-for-each-employee)
-32. [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement)*(Current)*
+32. [610. Triangle Judgement](https://leetcode.com/problems/triangle-judgement)
+33. [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)*(Current)*
 
 I will continue to add solutions daily.
 
