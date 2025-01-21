@@ -59,7 +59,12 @@ As of today, I have solved the following problems:
 33. [180. Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)
 34. [1164. Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date)
 35. [1204. Last Person to Fit in the Bus](https://leetcode.com/problems/last-person-to-fit-in-the-bus)
-36. [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories)*(Current)*
+36. [1907. Count Salary Categories](https://leetcode.com/problems/count-salary-categories)
+37. [1978. Employees Whose Manager Left the Company](https://leetcode.com/problems/employees-whose-manager-left-the-company)
+38. [626. Exchange Seats](https://leetcode.com/problems/exchange-seats)
+39. [1341. Movie Rating](https://leetcode.com/problems/movie-rating)
+40. [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth)
+41. [602. Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)*(Current)*
 
 I will continue to add solutions daily.
 
