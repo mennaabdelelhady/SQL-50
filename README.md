@@ -64,7 +64,9 @@ As of today, I have solved the following problems:
 38. [626. Exchange Seats](https://leetcode.com/problems/exchange-seats)
 39. [1341. Movie Rating](https://leetcode.com/problems/movie-rating)
 40. [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth)
-41. [602. Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)*(Current)*
+41. [602. Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)
+42. [585. Investments in 2016](https://leetcode.com/problems/investments-in-2016)
+43. [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)*(Current)*
 
 I will continue to add solutions daily.
 
