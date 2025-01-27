@@ -66,7 +66,11 @@ As of today, I have solved the following problems:
 40. [1321. Restaurant Growth](https://leetcode.com/problems/restaurant-growth)
 41. [602. Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends)
 42. [585. Investments in 2016](https://leetcode.com/problems/investments-in-2016)
-43. [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)*(Current)*
+43. [185. Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)
+44. [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)
+45. [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)
+46. [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)
+47. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)*(Current)*
 
 I will continue to add solutions daily.
 
