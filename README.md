@@ -70,7 +70,8 @@ As of today, I have solved the following problems:
 44. [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)
 45. [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)
 46. [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)
-47. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)*(Current)*
+47. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
+48. [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date)*(Current)*
 
 I will continue to add solutions daily.
 
