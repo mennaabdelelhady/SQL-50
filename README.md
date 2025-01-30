@@ -71,7 +71,9 @@ As of today, I have solved the following problems:
 45. [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)
 46. [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)
 47. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
-48. [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date)*(Current)*
+48. [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date)
+49. [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period)
+50. [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails)*(Current)*
 
 I will continue to add solutions daily.
 
