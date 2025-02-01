@@ -73,11 +73,16 @@ As of today, I have solved the following problems:
 47. [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary)
 48. [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date)
 49. [1327. List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period)
-50. [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails)*(Current)*
+50. [1517. Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails)*(THE HAPPY END)*
 
 I will continue to add solutions daily.
 
+<p align="center">
+  <img src="Top_SQL_50.png" alt="TOP SQL 50" width="300">
+</p>
+
 ---
+
 
 ## How to Use
 
